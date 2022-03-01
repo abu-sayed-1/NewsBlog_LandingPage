@@ -1,4 +1,4 @@
-## News Blog Landing Page Using HTML5 And SASS.
+## News Blog Landing Page Using HTML5 And SCSS.
 
 [**Visit-Website**](https://abu-sayed-1.github.io/NewsBlog_LandingPage/)
 
