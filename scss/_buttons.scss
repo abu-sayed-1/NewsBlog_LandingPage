@@ -1,0 +1,17 @@
+%btn{
+    border: none;
+    outline: none;
+    font-size: 15px;
+    font-weight: bold;
+    width: auto;
+    padding: 0.5rem
+}
+
+.primary_btn {
+    @extend %btn;
+    background-color: #ededf3;
+    color: $primary_color;
+}
+
+
+

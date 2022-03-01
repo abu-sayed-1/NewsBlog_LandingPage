@@ -1,0 +1,70 @@
+// margin and padding classes
+$spacesAmounts: (1,2,3,4,5);
+
+@each $space in $spacesAmounts  {
+    .m_#{$space} {
+        margin: #{$space}rem;
+    }
+
+    .my_#{$space} {
+        margin: #{$space}rem 0;
+    }
+
+    .mx_#{$space} {
+        margin: 0 #{$space}rem;
+    }
+    .mt_#{$space} {
+        margin-top: #{$space}rem;
+    }
+    .ml_#{$space} {
+        margin-left: #{$space}rem;
+    }
+    .mr_#{$space} {
+        margin-right: #{$space}rem;
+    }
+    .mb_#{$space} {
+        margin-bottom: #{$space}rem;
+    }
+
+    .p_#{$space} {
+        padding: #{$space}rem;
+    }
+
+    .py_#{$space} {
+        padding: #{$space}rem 0;
+    }
+
+    .px_#{$space} {
+        padding: 0 #{$space}rem;
+    }
+    .pt_#{$space} {
+        padding-top: #{$space}rem;
+    }
+    .pl_#{$space} {
+        padding-left: #{$space}rem;
+    }
+    .pr_#{$space} {
+        padding-right: #{$space}rem;
+    }
+    .pb_#{$space} {
+        padding-bottom: #{$space}rem;
+    }
+
+}
+
+
+// border radius
+$brAmounts: (1,2,3,4,5,6,7,8,9,10,11,12,13);
+
+@each $borderRadius in $brAmounts {
+    .br_#{$borderRadius} {
+        border-radius: #{$borderRadius}px;
+    }
+}
+
+
+%layout {
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
