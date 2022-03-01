@@ -1,6 +1,6 @@
 ## News Blog Landing Page Using HTML5 And SASS.
 
-[**Visit-Website**](https://abu-sayed.netlify.app/)
+[**Visit-Website**](https://abu-sayed-1.github.io/NewsBlog_LandingPage/)
 
 ![News Blog Landing Page](https://github.com/abu-sayed-1/NewsBlog_LandingPage/blob/main/image/newsBlogLandingpage.png)
 
