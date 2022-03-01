@@ -2,7 +2,7 @@
 
 [**Visit-Website**](https://abu-sayed.netlify.app/)
 
-![News Blog Landing Page](https://github.com/abu-sayed-1/NewsBlog_LandingPage/image/newsBlogLandingpage.png)
+![News Blog Landing Page](https://github.com/abu-sayed-1/NewsBlog_LandingPage/blob/main/image/newsBlogLandingpage.png)
 
 <h5 align="left">Contact with Me</h5>
 <a href="https://www.linkedin.com/in/dev-abu-sayed"  target="blank">
